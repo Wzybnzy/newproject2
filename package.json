@@ -1,0 +1,22 @@
+{
+  "name": "newproject2",
+  "version": "1.0.0",
+  "description": "newproject2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wzybnzy/newproject2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wzybnzy/newproject2/issues"
+  },
+  "homepage": "https://github.com/Wzybnzy/newproject2#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
